@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\bin\Debug\net7.0\diziler_array_metodları.exe
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\bin\Debug\net7.0\diziler_array_metodları.deps.json
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\bin\Debug\net7.0\diziler_array_metodları.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\bin\Debug\net7.0\diziler_array_metodları.dll
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\bin\Debug\net7.0\diziler_array_metodları.pdb
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\obj\Debug\net7.0\diziler_array_metodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\obj\Debug\net7.0\diziler_array_metodları.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\obj\Debug\net7.0\diziler_array_metodları.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\obj\Debug\net7.0\diziler_array_metodları.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\obj\Debug\net7.0\diziler_array_metodları.dll
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\obj\Debug\net7.0\refint\diziler_array_metodları.dll
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\obj\Debug\net7.0\diziler_array_metodları.pdb
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\obj\Debug\net7.0\diziler_array_metodları.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\diziler_array_metodları\obj\Debug\net7.0\ref\diziler_array_metodları.dll
